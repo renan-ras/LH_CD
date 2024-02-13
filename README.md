@@ -2,10 +2,9 @@
 
 Projeto de **predição de preços** de aluguéis na cidade de Nova York, em uma plataforma de aluguéis temporários.
 
-
-
 Para simplicidade de execução, o projeto foi desenvolvido pelo Google Colab, sem a necessidade de instalações locais.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renan-ras/LH_CD/blob/main/LH_CD.ipynb)
 
 ### Configurações
 Ajuste a variável filepath de acordo com onde salvou o arquivo de teste 'teste_indicium_precificacao.csv'
